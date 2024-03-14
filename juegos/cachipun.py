@@ -8,7 +8,7 @@ def cachipun():
             print("Empate")
         if persona =="papel":
             print("Ganaste!")
-        if persona == "tijeras":
+        if persona == "tijera":
             print("Perdiste")
     if computador == 2:
         print("papel")
@@ -16,7 +16,7 @@ def cachipun():
             print("Perdiste")
         if persona =="papel":
             print("Empate")
-        if persona == "tijeras":
+        if persona == "tijera":
             print("Ganaste!")
     if computador == 3:
         print("tijera")
@@ -24,6 +24,6 @@ def cachipun():
             print("Ganaste!")
         if persona =="papel":
             print("Perdiste")
-        if persona == "tijeras":
+        if persona == "tijera":
             print("Empate")
     pass
